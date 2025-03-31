@@ -53,10 +53,10 @@ export default function Nav () {
   const linkClass = isCurrent ? "nav-link current" : "nav-link"
 
   return (
-    <link to={to} className={linkClass}>
+    <Link to={to} className={linkClass}>
       <img src={imgSrc} alt={altText} />
       {isCurrent && <h1 className="page-title">{pageTitle}</h1>}
-    </link>
+    </Link>
   )
  }
 
