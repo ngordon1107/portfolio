@@ -136,8 +136,8 @@ const projects =  {
                 <p>Tech Stack: HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</p>
             </>
         ),
-        github: "need link*",
-        demo: "need link*",
+        github: "https://github.com/ngordon1107/capstone-food-ordering-website",
+        demo: "https://github.com/ngordon1107/capstone-food-ordering-website",
     }
 }
 
