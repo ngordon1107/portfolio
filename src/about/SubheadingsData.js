@@ -17,7 +17,43 @@ const SubheadingsData = {
             content: (
                 <>
                     <p>
-                        Will add education here
+                        Pitzer College | Claremont, CA
+                    </p>
+                    <p>
+                        Major: Linguistics
+                    </p>
+                    <p>
+                        Minor: Anthropology
+                    </p>
+                </>
+            )
+        },
+        {
+            title: "Path2Tech Full Stack Development Bootcamp",
+            content: (
+                <>
+                    <p>
+                        Npower | New York, NY
+                    </p>
+                </>
+            )
+        },
+        {
+            title: "Certified Tester Foundation Level (Quality Assurance Certification)",
+            content: (
+                <>
+                    <p>
+                        ISTQB | New York, NY 
+                    </p>
+                </>
+            )
+        },
+        {
+            title: "Data Analytics Bootcamp",
+            content: (
+                <>
+                    <p>
+                        G&#123;Code&#125; House | New York, NY 
                     </p>
                 </>
             )

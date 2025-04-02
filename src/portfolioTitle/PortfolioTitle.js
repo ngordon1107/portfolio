@@ -13,4 +13,4 @@ const PortfolioTitle = () => {
     )
 }
 
-export default PortfolioTitle
+export default PortfolioTitle;

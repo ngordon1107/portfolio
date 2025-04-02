@@ -88,7 +88,7 @@
     background: linear-gradient(180deg, #1c8298, #074654, #074654);
 }
 
-.skill-sub-container-1 {
+.skill-sub-container {
     margin-top: 2rem;
     display: flex;
     flex-direction: column;
