@@ -118,21 +118,22 @@ const projects =  {
         demo: "https://p2t-weather-app-project.netlify.app/",
     },
     6: {
-        title: "Express Car REST API",
+        title: "Food Ordering Website",
         image: projectSix,
         description: (
             <>
                 <p>
-                    I built a REST API using Express for car inventory, and it needs the following features:
+                You will be making a Food Ordering application, and this will be your capstone project. This project will be built with the MERN stack. MERN stands for MongoDB, Express, React, and Node.
                 </p>
                 <ul>
-                    <li>A GET route that returns a list of all the cars from the database</li>
-                    <li>A GET route that returns a cars details based on an id passed in the parameters of the URL</li>
-                    <li>A POST route that creates a new car in the database</li>
-                    <li>A PUT route that updates a single car in the database</li>
-                    <li>A DELETE route that deletes a car in the database.</li>
+                    <li>User authentication</li>
+                    <li>User Profile</li>
+                    <li>Orders and Order Management</li>
+                    <li>Detail Page</li>
+                    <li>Stripe Payment</li>
+                    <li>Responsive Design</li>
                 </ul>
-                <p>Tech stack: JavaScript, Node.js, Express.js, MongoDB</p>
+                <p>Tech Stack: HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</p>
             </>
         ),
         github: "need link*",
