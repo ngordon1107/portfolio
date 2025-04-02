@@ -7,7 +7,15 @@ const background = () => {
     return (
         <>
         <div className="shadow-overlay"></div>
-        <video playInline autoPlay muted loop preload="auto" id="bg" poster={fallbackImage}>
+        <video 
+        playsInline 
+        autoPlay 
+        muted 
+        loop 
+        preload="auto" 
+        id="bg" 
+        poster={fallbackImage}
+        >
             <source src={video} type="video/mp4" />
         </video>
         </>
